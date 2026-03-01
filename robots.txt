@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haoranguo.github.io/sitemap.xml
+Sitemap: https://haoran-guo-home.github.io/sitemap.xml
